@@ -1,16 +1,18 @@
-# gerencia_de_estado_nativo
+# Gerencia de estado nativo Flutter
 
-A new Flutter project.
 
-## Getting Started
+Aplicação desenvolvido seguindo as aulas da Academia do Flutter.
 
-This project is a starting point for a Flutter application.
+App que faz o calculo de IMC - Índice de Massa Corporal.
 
-A few resources to get you started if this is your first Flutter project:
+- [x] SetState.
+- [x] ValueNatifier.
+- [x] ChangeNotifier.
+- [x] BlocPattern.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Telas
+<p align="center">
+<img src="https://github.com/CharlestonRibeiro/Gerenciadores_de_estado/blob/main/assert/img/1.jpeg?raw=true" width="190" height="490" />
+<img src="https://github.com/CharlestonRibeiro/Gerenciadores_de_estado/blob/main/assert/img/2.jpeg?raw=true" width="190" height="490" />
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
